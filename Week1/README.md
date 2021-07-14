@@ -90,6 +90,14 @@ Gunakan link ini jika kalian tidak tau cara untuk membulatkan nilai ke atas. htt
 
 ```java
 public class Student {
+  String className;
+  String name;
+  int academic;
+  int physical;
+  int adapt;
+  int socialContribution;
+  int score;
+  
   // Constructor
   public Student(String className, String name, int academic, int physical, int adapt, int socialContribution) {
     // Code here
