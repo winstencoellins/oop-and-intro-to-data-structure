@@ -14,6 +14,7 @@ public class Main {
 Selesaikanlah fungsi Java dibawah yang menghitung nilai faktorial dari sebuah input yang diberikan. Cara kerja faktorial:
 - Jika faktorial 4, biasa ditulis 4! di matematika, maka hasilnya akan sama dengan 4 * 3 * 2 * 1 = 24
 - Jika faktorial 6, 6! = 6 * 5 * 4 * 3 * 2 * 1 = 720
+- Note: 0! = 1
 
 ```java
 public static int factorial (int n) {
@@ -44,7 +45,7 @@ https://www.w3schools.com/java/java_ref_string.asp
 ## Soal 3: Sum All Multiple Of Three and Five
 Selesaikanlah fungsi dibawah dimana fungsi tersebut akan menjumlahkan semua bilangan kelipatan tiga dan bilangan kelipatan lima. Contoh:
 - Jika input = 5, maka hasil yang akan didapatkan adalah 8. (3 + 5 = 8)
-- Jika input = 20, maka hasil yang akan didapatkan adalah 113. (3 + 6 + 9 + 12 + 15 + 18 + 5 + 10 + 15 + 20 = 113)
+- Jika input = 20, maka hasil yang akan didapatkan adalah 113. (3 + 6 + 9 + 12 + 15 + 18 + 5 + 10 + 20 = 98)
 
 ```java
 public static int sumMultipleOfThreeAndFive(int n) {
