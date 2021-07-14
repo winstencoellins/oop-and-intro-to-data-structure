@@ -13,6 +13,7 @@ Pada week 1, kita akan mengulang semua yang telah kalian pelajari di Programming
 - Functions
 - Basic OOP (toString, Constructor, Attributes)
 - List
+- Array
 
 ## Week 2
 Membahas lebih lanjut mengenai OOP dan memperkenalkan 4 pillar penting di dalam OOP
@@ -23,7 +24,6 @@ Membahas lebih lanjut mengenai OOP dan memperkenalkan 4 pillar penting di dalam 
 
 ## Week 3
 Membahas Linear Data Structure yang paling umum dan sering digunakan
-- Array
 - Stack
 - Queue
 - Linked List
