@@ -41,7 +41,7 @@ public class Tester {
 	}
 	
 	public static boolean fourth() {
-		if(Main.fibonacci(1) != 0) {
+		if(Main.fibonacci(1) != 1) {
 			System.out.println("Hasil dengan input 1 salah");
 			return false;
 		}
