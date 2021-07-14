@@ -1,4 +1,3 @@
-
 public class Tester {
 	public static boolean first() {
 		if(Main.factorial(10) != 3628800) {
