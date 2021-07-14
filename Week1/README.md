@@ -45,7 +45,7 @@ https://www.w3schools.com/java/java_ref_string.asp
 ## Soal 3: Sum All Multiple Of Three and Five
 Selesaikanlah fungsi dibawah dimana fungsi tersebut akan menjumlahkan semua bilangan kelipatan tiga dan bilangan kelipatan lima. Contoh:
 - Jika input = 5, maka hasil yang akan didapatkan adalah 8. (3 + 5 = 8)
-- Jika input = 20, maka hasil yang akan didapatkan adalah 113. (3 + 6 + 9 + 12 + 15 + 18 + 5 + 10 + 20 = 98)
+- Jika input = 20, maka hasil yang akan didapatkan adalah 98. (3 + 6 + 9 + 12 + 15 + 18 + 5 + 10 + 20 = 98)
 
 ```java
 public static int sumMultipleOfThreeAndFive(int n) {
