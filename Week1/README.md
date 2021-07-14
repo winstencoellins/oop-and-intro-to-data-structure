@@ -84,7 +84,7 @@ Setiap attribute akan mengembalikan (return) nilai dalam bentuk huruf (A, B, C, 
 - D: <= 44
 
 Rumus untuk menghitung nilai overall: `(academic + physical + adapt + (social contribution * 0.5)) / 350 * 100` (rounded up). Untuk membulatkan nilai double ke atas gunakan
-`Math.round()`.
+`Math.ceil()`.
 
 Gunakan link ini jika kalian tidak tau cara untuk membulatkan nilai ke atas. https://www.javatpoint.com/java-math-round-method
 
