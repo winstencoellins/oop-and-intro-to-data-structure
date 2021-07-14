@@ -98,45 +98,16 @@ public class Student {
   // Attrs
   
   /*
-  * Mengevaluasi academicAbility dari Student object dalam bentuk huruf
-  * dari nilai yang diberikan
-  * @return String yang berupa "A", "B", "C", atau "D"
+  * Mengevaluasi nilai yang diberikan menjadi bentuk huruf
+  * @return nilai huruf dalam bentuk String
   */
-  public String academicAbility(){
+  public String evaluate(int score) {
     // Code here
   }
   
   /*
-  * Mengevaluasi physicalAbility dari Student object dalam bentuk huruf
-  * dari nilai yang diberikan
-  * @return String yang berupa "A", "B", "C", atau "D"
-  */
-  public String physicalAbility() {
-    // Code here
-  }
-  
-  /*
-  * Mengevaluasi adaptAbility dari Student object dalam bentuk huruf
-  * dari nilai yang diberikan
-  * @return String yang berupa "A", "B", "C", atau "D"
-  */
-  public String adaptAbility() {
-    // Code here
-  }
-  
-  /*
-  * Mengevaluasi socialContribution dari Student object dalam bentuk huruf
-  * dari nilai yang diberikan
-  * @return String yang berupa "A", "B", "C", atau "D"
-  */
-  public String socialContribution() {
-    // Code here
-  }
-  
-  /*
-  * Mengevaluasi adaptAbility dari Student object dalam bentuk huruf
-  * dari nilai yang diberikan
-  * @return nilai huruf (nilai angka) dalam bentuk String
+  * Menghitung overallAbility
+  * @return nilai overall dari murid dalam bentuk integer
   */
   public int overallAbility() {
     // Code here
