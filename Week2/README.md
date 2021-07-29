@@ -4,7 +4,7 @@ interesting project since this project is related to a famous game across the wo
 
 ## Steps
 Create or download the interface called `FightModule`. If you create your own, then copy and paste the code to your editor. Read through the comments and try to understand what
-the comments told you to do. Do not implement the code yet.
+the comments tell you to do. Do not implement the code yet.
 ```java
 /*
  * This interface should be implemented in every single Child Class
