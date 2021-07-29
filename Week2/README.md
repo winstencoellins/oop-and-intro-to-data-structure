@@ -128,7 +128,7 @@ Charged Attack Damage: [totalChargedAtkDmg]
 
 Finally, you will be implementing the interface. Before implementing the interface in each child class, you need to be aware of this rules:
 - Catalyst character deals elemental damage even with their normal attack or charged attack, therefore mobs such as `slimes` will be immune to it.
-- When Bow character do chargedAtkDmg, bow character will deal an elemental damage to mobs, therefore mobs such as `slimes` will be immue to it.
+- When Bow character do chargedAtkDmg, bow character will deal an elemental damage to mobs, therefore mobs such as `slimes` will be immune to it.
 
 To make it more interesting, I want you to make some conditions in the `attack` and `chargedAtk` function.
 - If the mobs still has HP remaining, you would want to return `[mobsName] still has [HP] remaining.`
