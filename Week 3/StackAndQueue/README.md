@@ -1,4 +1,4 @@
-# Week 3 Assignment Stack and Queue
+# Week 3 Assignment (Stack and Queue Implementation Using Fixed Size Array)
 In this assignment you will be implementing Stack and Queue using interface given for you. Those are `StackADT.java` and `QueueADT.java`.
 
 ## Steps
