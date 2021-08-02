@@ -6,7 +6,7 @@ Open the file or download the `StackADT.java` and `QueueADT.java` interfaces. Re
 be implementing Stack and Queue using Fixed Size Array in this assignment. Create two classes called `Stack.java` and `Queue.java`. Copy and paste the code provided for you nelow into
 two of the classes you just created.
 
-#### Stack
+### Stack
 ```java
 public class Stack() {
   private int top = 0;
@@ -59,7 +59,7 @@ public void printString(){
 }
 ```
 
-#### Queue
+### Queue
 ```java
 public class Queue() {
   private int index = 0;
