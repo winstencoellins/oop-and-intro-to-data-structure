@@ -1,0 +1,108 @@
+﻿Name,Vision,HP,Categories
+Dendro Slime,Dendro,29412,Slime
+Large Dendro Slime,Dendro,73530,Slime
+Anemo Slime,Anemo,29412,Slime
+Large Anemo Slime,Anemo,73530,Slime
+Electro Slime,Electro,29412,Slime
+Large Electro Slime,Electro,73530,Slime
+Cryo Slime,Cryo,29412,Slime
+Large Cryo Slime,Cryo,73530,Slime
+Pyro Slime,Pyro,29412,Slime
+Large Pyro Slime,Pyro,73530,Slime
+Hydro Slime,Hydro,29412,Slime
+Large Hydro Slime,Hydro,73530,Slime
+Geo Slime,Geo,29412,Slime
+Large Geo Slime,Geo,73530,Slime
+Eye of the Storm,Anemo,183826,Elemental Lifeforms
+Electro Hypostasis,Electro,257356,Elemental Lifeforms
+Anemo Hypostasis,Anemo,257356,Elemental Lifeforms
+Geo Hypostasis,Geo,257356,Elemental Lifeforms
+Cryo Hypostasis,Cryo,257356,Elemental Lifeforms
+Pyro Hypostasis,Pyro,257356,Elemental Lifeforms
+Oceanid,Hydro,367651,Elemental Lifeforms
+Hilichurl,None,36765,Hilichurls
+Hilichurl Fighter,None,36765,Hilichurls
+Wooden Shield Hilichurl Guard,None,36765,Hilichurls
+Hilichurl Shooter,None,29412,Hilichurls
+Pyro Hilichurl Shooter,Pyro,29412,Hilichurls
+Hilichurl Grenadier,Pyro,36765,Hilichurls
+Hilichurl Berserker,Pyro,36765,Hilichurls
+Cryo Hilichurl Shooter,Cryo,29412,Hilichurls
+Electro Hilichurl Shooter,Electro,29412,Hilichurls
+Rock Shield Hilichurl Guard,None,36765,Hilichurls
+Cryo Hilichurl Grenadier,Cryo,29412,Hilichurls
+Ice Shield Hilichurl Guard,None,36765,Hilichurls
+Unusual Hilichurl,None,58824,Hilichurls
+Electro Hilichurl Grenadier,Electro,36765,Hilichurls
+Wooden Shieldwall Mitachurl,None,110295,Hilichurls
+Blazing Axe Mitachurl,None,110295,Hilichurls
+Rock Shieldwall Mitachurl,None,110295,Hilichurls
+Frostarm Lawachurl,Cryo,330886,Hilichurls
+Stonehide Lawachurl,Geo,339886,Hilichurls
+Ice Shielwall Mitachurl,None,110295,Hilichurls
+Crackling Axe Mitachurl,None,110295,Hilichurls
+Thunderhelm Lawachurl,Electro,339886,Hilichurls
+Hydro Samachurl,Hydro,36765,Hilichurls
+Dendro Samachurl,Dendro,36765,Hilichurls
+Anemo Samachurl,Anemo,36765,Hilichurls
+Cryo Samachurl,Cryo,36765,Hilichurls
+Geo Samachurl,Geo,36765,Hilichurls
+Electro Samachurl,Electro,36765,Hilichurls
+Pyro Abyss Mage,Pyro,73530,Abyss Order
+Hydro Abyss Mage,Hydro,73530,Abyss Order
+Cryo Abyss Mage,Cryo,73530,Abyss Order
+Electro Abyss Mage,Electro,73530,Abyss Order
+Abyss Herald,Hydro,294121,Abyss Order
+Abyss Lector,Electro,294121,Abyss Order
+Cryogunner,Cryo,147060,Fatui
+Hydrogunner,Hydro,110295,Fatui
+Electrohammer,Electro,147060,Fatui
+Geochanter,Geo,110295,Fatui
+Pyroslinger,Pyro,110295,Fatui
+Anemoboxer,Anemo,110295,Fatui
+Fatui Pyro Agent,Pyro,183826,Fatui
+Electro Cicin Mage,Electro,183826,Fatui
+Cryo Cicin Mage,Cryo,183826,Fatui
+Mirror Maiden,Hydro,332760,Fatui
+Ruin Guard,None,258356,Automaton
+Ruin Hunter,None,220591,Automaton
+Ruin Grader,None,330886,Automaton
+Ruin Cruiser,None,166380,Automaton
+Ruin Destroyer,None,166380,Automaton
+Ruin Defender,None,232932,Automaton
+Ruin Scout,None,232932,Automaton
+Maguu Kenki,None,735302,Automaton
+Perpetual Mechanical Array,None,887360,Automaton
+Treasure Hoarder Liuliu,None,88236,Human
+Treasure Hoarder Scout,None,44118,Human
+Treasure Hoarder Potioneer,None,58824,Human
+Treasure Hoarder Handyman,None,73530,Human
+Treasure Hoarder Raptor,None,73530,Human
+Treasure Hoarder Marksman,None,44118,Human
+Treasure Hoarder Carmen,None,110295,Human
+Treasure Hoarder Gravedigger,None,73530,Human
+Treasure Hoarder Seaman,None,73530,Human
+Treasure Hoarder Boss,None,88236,Human
+Treasure Hoarder Pugilist,None,73530,Human
+Millelith Soldier,None,58824,Human
+Millelith Sergeant,None,88236,Human
+Jintouban,None,110920,Human
+Hitsukeban,None,110920,Human
+Kikouban,None,110920,Human
+Dancing Thunder ,Pyro,266208,Human
+Fiery Might,Electro,266208,Human
+Cryo Whopperflower,Cryo,110295,Magical Beasts
+Pyro Whopperflower,Pyro,110295,Magical Beasts
+Electro Whopperflower,Electro,110295,Magical Beasts
+Cryo Regisvine,Cryo,257356,Magical Beasts
+Pyro Regisvine,Pyro,257356,Magical Beasts
+Geovishap Hatchling,Geo,110295,Magical Beasts
+Geovishap,Geo,294121,Magical Beasts
+Primo Geovishap,Geo,1102954,Magical Beasts
+Electro Cicin,Electro,18383,Magical Beasts
+Hydro Cicin,Hydro,18383,Magical Beasts
+Cryo Cicin,Cryo,18383,Magical Beasts
+Stormterror,Anemo,330886,Bosses
+Lupus Boreas,Cryo,661772,Bosses
+Childe,Hydro,220591,Bosses
+Azhdaha,Geo,1323544,Bosses

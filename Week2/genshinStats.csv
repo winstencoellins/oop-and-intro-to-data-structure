@@ -1,0 +1,35 @@
+Name,Vision,Weapon,City,HP,Base Atk,One Hit Dmg in %,Two Hit Dmg in %,Three Hit Dmg in %,Four Hit Dmg in %,Five Hit Dmg in %,Six Hit Dmg in %,Charged Atk Dmg in %
+Amber,Pyro,Bow,Mondstadt,9461,223,96,96,124,126,158,0,294
+Barbara,Hydro,Catalyst,Mondstadt,9787,159,92,86,100,135,0,0,406
+Beidou,Electro,Claymore,Liyue,13050,225,206,205,256,251,325,0,295
+Bennett,Pyro,Sword,Mondstadt,12397,191,119,114,146,159,192,0,311
+Chongyun,Cryo,Claymore,Liyue,10984,223,187,168,214,270,150,0,272
+Diluc,Pyro,Claymore,Mondstadt,12981,335,260,254,287,389,0,0,362
+Fischl,Electro,Bow,Mondstadt,9189,244,117,125,155,154,192,0,294
+Jean,Anemo,Sword,Mondstadt,14695,239,140,132,175,191,230,0,470
+Kaeya,Cryo,Sword,Mondstadt,11636,223,156,150,189,205,256,0,371
+Keqing,Electro,Sword,Liyue,13103,323,109,109,145,176,179,0,435
+Klee,Pyro,Catalyst,Mondstadt,10287,311,176,152,220,0,0,0,385
+Lisa,Electro,Catalyst,Mondstadt,9570,232,96,87,104,134,0,0,433
+Mona,Hydro,Catalyst,Mondstadt,10409,287,89,85,106,133,0,0,366
+Ningguang,Geo,Catalyst,Liyue,9787,212,68,68,68,0,0,0,789
+Noelle,Geo,Claymore,Mondstadt,12071,191,211,196,230,303,0,0,376
+Qiqi,Cryo,Sword,Liyue,12368,287,100,103,128,132,168,0,348
+Razor,Electro,Claymore,Mondstadt,11962,234,220,189,237,312,0,0,302
+Sucrose,Anemo,Catalyst,Mondstadt,9244,170,79,72,91,113,0,0,285
+Venti,Anemo,Bow,Mondstadt,10531,263,118,128,152,150,147,206,303
+Xiangling,Pyro,Polearm,Liyue,10875,225,122,122,150,40,206,0,353
+Xiao,Anemo,Polearm,Liyue,12736,349,126,130,157,172,164,219,277
+Xingqiu,Hydro,Sword,Liyue,10222,202,135,138,164,162,208,0,400
+Tartaglia,Hydro,Bow,Snezhnaya,13103,301,110,123,148,152,162,194,294
+Zhongli,Geo,Polearm,Liyue,14695,251,89,90,112,124,324,158,322
+Diona,Cryo,Bow,Mondstadt,9570,212,104,97,132,124,156,0,303
+Xinyan,Pyro,Claymore,Liyue,11201,249,204,197,255,309,0,0,302
+Ganyu,Cryo,Bow,Liyue,9797,335,92,103,132,132,140,167,598
+Albedo,Geo,Sword,Mondstadt,13226,251,106,106,137,144,180,0,312
+Rosaria,Cryo,Polearm,Mondstadt,12289,240,140,138,170,186,226,0,365
+KamisatoAyaka,Cryo,Sword,Inazuma,12858,342,115,123,158,171,198,0,417
+Hu Tao,Pyro,Polearm,Liyue,15552,106,107,110,140,150,156,197,312
+Yanfei,Pyro,Catalyst,Liyue,9352,240,138,123,180,0,0,0,338
+Eula,Cryo,Claymore,Mondstadt,13226,342,260,271,335,327,416,0,361
+KaedeharaKazuha,Anemo,Sword,Inazuma,13348,297,130,131,163,176,216,0,340
