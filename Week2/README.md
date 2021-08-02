@@ -84,7 +84,7 @@ parameters `name, vision` (without `stamina` in the parameter).
 - `jump()`: return String "Jumping"
 - `getStamina()`: return the stamina of the character
 
-Next step is to create the child class. There will be five child class (`Sword, Polearm, Catalyst, Claymore, Bow`), and each class should inherits from the parent class `GenshinChar` 
+Next step is to create the child class. There will be five child classes (`Sword, Polearm, Catalyst, Claymore, Bow`), and each class should inherits from the parent class `GenshinChar` 
 and implements an Interface `FightModule`. Each class should also have a Constructor with parameters:
 - `baseAtk`: Attack without any weapon equipped.
 - `oneHitDmg`: Percent damage of oneHitDmg * baseAtk
@@ -110,7 +110,7 @@ this.totalNormalAtkDmg = ((oneHitDmg * (baseAtk + weaponDmg) * 0.01) + (twoHitDm
 				(sixHitDmg + (baseAtk + weaponDmg) * 0.01));
 ```
 
-After finish implementing the constructor, next you would want to implement the attribute of each child class:
+After done implementing the constructor, next you would want to implement the attribute of each child class:
 - `getTotalNormalDmg()`: return the totalNormalAtkDmg of a character
 - `getWeapon()`: return the weapon of a certain character
 - `getChargedAtkDmg()`: return the totalChargedAtkDmg of a character
@@ -134,3 +134,5 @@ To make it more interesting, I want you to make some conditions in the `attack` 
 - If the mobs still has HP remaining, you would want to return `[mobsName] still has [HP] remaining.`
 - If the attack needed for a certain character to kill the mobs is lower than n, return `[characterName] needs [x] times of total normal attack damage to kill [mobsName]` you will need `Math.ceil()` to help you round up the `[x]`. You need to figure out how to calculate the `[x]` yourselves.
 - If the attack needed for a certain character to kill the mobs is equal to n, return `[characterName] sucessfully killed [mobsName] with [n] times of total normal attack.`
+
+After finishing everything. This part is the most interesting part. You will download the `Main.java`, `genshinStats.csv`, and `GenshinEnemies.csv` files provided for you to your working folder. You need to change the two `FILE_NAME` String variables into your `local path directory` in order to use the csv files provided for you. Try to troubleshoot any error in your code on your own first. If everything goes smoothly, you could now use our data and play around with it in our main method in `Main.java`.
