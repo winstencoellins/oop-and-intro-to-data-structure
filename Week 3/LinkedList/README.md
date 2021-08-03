@@ -92,7 +92,8 @@ public void insert(int index, Node node) {
 }
 ```
 As for the insert() method, it is similar to the add() method except there will be an index argument in the insert() method which enables the method to add the node anywhere in the LinkedList.
-However, do note that the index can also be invalid. Example: Calling insert(5, node) with a LinkedList with only 3 nodes will not allow the method to add the node. Hence, the size and content of the LinkedList will stay the same.
+Example: Calling insert(0, node1) on a LinkedList with the sequence (node2 -> node3 -> node4) will result in the LinkedList to be (node1 -> node2 -> node3 -> node4)
+However, do note that the index can also be invalid. Example: Calling insert(5, node2) with a LinkedList with only 3 nodes will not allow the method to add the node. Hence, the size and content of the LinkedList will stay the same.
 
 
 
