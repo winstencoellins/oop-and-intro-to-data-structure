@@ -26,8 +26,8 @@ LinkedList list = new LinkedList(node1);
 The first method you will implement will be the size() method which returns the size of the LinkedList.
 ```java
 public int size() {
-		// TODO
-		return 0;
+	// TODO
+	return 0;
 }
 ```
 
@@ -36,23 +36,23 @@ NOTE: Remember to update your size as you add more nodes in the LinkedList and r
 Also, a good practice is to check whether the node passed in the argument is null or not. If it is null, do not add the node in the LinkedList.
 ```java
 public void add(Node node) {
-		// TODO
+	// TODO
 }
 ```
 
 Next, you will implement a toString() method to get a String representation of the LinkedList and aids you in checking your work. The format of the String returned has already been specified as comments in the skeleton code. 
 ```java
 public String toString() {
-		// TODO
-		return "";
+	// TODO
+	return "";
 }
 ```
 
 Then, you will implement the contains() method to check whether a certain node is a part of the LinkedList.
 ```java
 public boolean contains(Node node) {
-		// TODO 
-		return false;
+	// TODO 
+	return false;
 }
 ```
 
@@ -61,8 +61,8 @@ NOTE: The index of the LinkedList starts at 0 which means that get(0) will retur
 NOTE: Also, check whether the index passed as argument is valid or not. Return null if the index is invalid.
 ```java
 public Node get(int index) {
-		// TODO
-		return null;
+	// TODO
+	return null;
 }
 ```
 
@@ -70,15 +70,15 @@ The next method you will implement will be the clear() method which will clear t
 NOTE: Remember to update the attributes of the LinkedList and the nodes in the LinkedList as needed
 ```java
 public void clear() {
-		// TODO
+	// TODO
 }
 ```
 
 Finally, you will implement the delete() and insert() methods as the last methods you will implement. 
 ```java
 public Node delete(int index) {
-		// TODO
-		return null;
+	// TODO
+	return null;
 }
 ```
 For the delete() method, an index argument will be passed to specify which node will be deleted and the method will return the deleted node if the deletion is successful.
@@ -86,7 +86,7 @@ Similar to the get() method, remember to check for invalid index and return null
 
 ```java
 public void insert(int index, Node node) {
-		// TODO Auto-generated method stub
+	// TODO 
 }
 ```
 As for the insert() method, it is similar to the add() method except there will be an index argument in the insert() method which enables to method to add the node anywhere in the LinkedList.
