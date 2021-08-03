@@ -11,4 +11,20 @@ We have provided the skeleton code for your LinkedList.java class. You will then
 ### Attributes and Constructors
 The LinkedList.java class has 2 attributes which are `head` and `size`. The head will store the address of the first node in the Linked List and size will represent the number of nodes in the list. Next, you will implement the constructors of the class. One of the constructor will contain no argument while the other constructor will contain one argument. 
 
+### Testing
+To test your code, create a new java file which contains a main method and create an instance of LinkedList object. 
+---java
+// Instantiating a LinkedList object with no argument constructor
+LinkedList list = new LinkedList();
+
+// Instantiating a LinkedList object with a one argument constructor
+Node node1 = new Node(5);
+LinkedList list = new LinkedList(node1);
+---
+
+### Methods
+The first method you will implement will be the size() method which returns the size of the LinkedList.
+
+
+
 
