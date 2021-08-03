@@ -32,7 +32,7 @@ public int size() {
 ```
 
 After finishing the size() method, you will then implement the add() method which will add a node at the end of the LinkedList.
-NOTE: Remember to update your size as you add more nodes in the LinkedList and remember to update your head if the initial size of the LinkedList is 0.
+`NOTE:` Remember to update your size as you add more nodes in the LinkedList and remember to update your head if the initial size of the LinkedList is 0.
 Also, a good practice is to check whether the node passed in the argument is null or not. If it is null, do not add the node in the LinkedList.
 ```java
 public void add(Node node) {
@@ -57,8 +57,8 @@ public boolean contains(Node node) {
 ```
 
 After you have successfully implemented the contains() method, you will implement the get() method to get the node at the specified index. 
-NOTE: The index of the LinkedList starts at 0 which means that get(0) will return the head of the LinkedList.
-NOTE: Also, check whether the index passed as argument is valid or not. Return null if the index is invalid.
+`NOTE:` The index of the LinkedList starts at 0 which means that get(0) will return the head of the LinkedList.
+`NOTE:` Also, check whether the index passed as argument is valid or not. Return null if the index is invalid.
 ```java
 public Node get(int index) {
 	// TODO
@@ -67,14 +67,15 @@ public Node get(int index) {
 ```
 
 The next method you will implement will be the clear() method which will clear the entire LinkedList.
-NOTE: Remember to update the attributes of the LinkedList and the nodes in the LinkedList as needed
+`NOTE:` Remember to update the attributes of the LinkedList and the nodes in the LinkedList as needed
+`NOTE:` You should reset the `next` attributes of all the nodes in the LinkedList
 ```java
 public void clear() {
 	// TODO
 }
 ```
 
-Finally, you will implement the delete() and insert() methods as the last methods you will implement. 
+Finally, you will implement the delete() and insert() methods as the last methods that you will implement. 
 ```java
 public Node delete(int index) {
 	// TODO
@@ -83,14 +84,16 @@ public Node delete(int index) {
 ```
 For the delete() method, an index argument will be passed to specify which node will be deleted and the method will return the deleted node if the deletion is successful.
 Similar to the get() method, remember to check for invalid index and return null if the index is invalid. 
+`NOTE:` Similar to the clear() method, you should update the `next` attribute of the nodes that you will delete. 
 
 ```java
 public void insert(int index, Node node) {
 	// TODO 
 }
 ```
-As for the insert() method, it is similar to the add() method except there will be an index argument in the insert() method which enables to method to add the node anywhere in the LinkedList.
+As for the insert() method, it is similar to the add() method except there will be an index argument in the insert() method which enables the method to add the node anywhere in the LinkedList.
 However, do note that the index can also be invalid. Example: Calling insert(5, node) with a LinkedList with only 3 nodes will not allow the method to add the node. Hence, the size and content of the LinkedList will stay the same.
+
 
 
 
