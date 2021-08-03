@@ -10,7 +10,7 @@ two of the classes you just created.
 ```java
 public class Stack() {
   private int top = 0;
-  private int items[];
+  private int[] items;
   private int maxSize;
   
   public Stack(int maxSize){
@@ -63,7 +63,7 @@ public void printString(){
 ```java
 public class Queue() {
   private int index = 0;
-  private int items[];
+  private int[] items;
   private int maxSize;
   
   public Queue(int maxSize){
