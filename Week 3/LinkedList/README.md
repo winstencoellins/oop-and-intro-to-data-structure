@@ -95,6 +95,9 @@ As for the insert() method, it is similar to the add() method except there will 
 Example: Calling insert(0, node1) on a LinkedList with the sequence (node2 -> node3 -> node4) will result in the LinkedList to be (node1 -> node2 -> node3 -> node4)
 However, do note that the index can also be invalid. Example: Calling insert(5, node2) with a LinkedList with only 3 nodes will not allow the method to add the node. Hence, the size and content of the LinkedList will stay the same.
 
+## How to Use Tester
+Download the Main.java file or copy paste the entire program to a new file. The file should be in the same folder as your 3 other files. Run the Main.java file to execute the tester program. 
+
 
 
 
