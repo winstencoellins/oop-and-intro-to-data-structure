@@ -25,6 +25,12 @@ LinkedList list = new LinkedList(node1);
 ### Methods
 The first method you will implement will be the size() method which returns the size of the LinkedList.
 
+After finishing the size() method, you will then implement the add() method which will add a node at the end of the LinkedList.
+NOTE: Remember to update your size as you add more nodes in the LinkedList and remember to update your head if the initial size of the LinkedList is 0.
+Also, a good practice is to check whether the node passed in the argument is null or not. If it is null, do not add the node in the LinkedList.
+
+Next, you will implement a toString() method to get a String representation of the LinkedList and aids you in checking your work. The format of the String returned has already been specified as comments in the skeleton code. 
+
 
 
 
