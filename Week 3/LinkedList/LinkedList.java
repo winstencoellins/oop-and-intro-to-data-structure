@@ -44,6 +44,7 @@ public class LinkedList implements LinkedListInterface {
 	 * The format of the String will be the value of the nodes separated by comma
 	 * Example: Calling toString() on a LinkedList with the sequence 1->2->3 will
 	 *     return 1, 2, 3 as a String
+	 * @return "Linked List is empty" if the LinkedList is empty
 	 */
 	@Override
 	public String toString() {
