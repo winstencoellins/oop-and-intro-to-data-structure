@@ -13,14 +13,14 @@ The LinkedList.java class has 2 attributes which are `head` and `size`. The head
 
 ### Testing
 To test your code, create a new java file which contains a main method and create an instance of LinkedList object. 
----java
+```java
 // Instantiating a LinkedList object with no argument constructor
 LinkedList list = new LinkedList();
 
 // Instantiating a LinkedList object with a one argument constructor
 Node node1 = new Node(5);
 LinkedList list = new LinkedList(node1);
----
+```
 
 ### Methods
 The first method you will implement will be the size() method which returns the size of the LinkedList.
